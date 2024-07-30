@@ -1,0 +1,16 @@
+2024-07-30T00:37:44.405997Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.39) starting as process 1788
+2024-07-30T00:37:44.469857Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-07-30T00:37:45.154084Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-07-30T00:37:45.882182Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-07-30T00:37:45.884913Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-07-30T00:37:45.960894Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-07-30T00:37:45.961125Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.39'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2024-07-30T22:21:57.875119Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.39) starting as process 4912
+2024-07-30T22:21:58.177639Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-07-30T22:22:00.364375Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2024-07-30T22:22:01.765747Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2024-07-30T22:22:01.775058Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2024-07-30T22:22:02.182270Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2024-07-30T22:22:02.183443Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2024-07-30T22:22:02.385804Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2024-07-30T22:22:02.385699Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.39'  socket: ''  port: 3306  MySQL Community Server - GPL.
